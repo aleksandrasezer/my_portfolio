@@ -1,15 +1,17 @@
-.workBlock {
-    height: 100vh;
+.footerBlock {
+    height: 170px;
 }
-.workContainer {
+.footerContainer {
     align-items: center;
     flex-direction: column;
-    justify-content: flex-start;
 }
-.projects {
+.contacts {
     border: 1px solid;
-    width: 100%;
+    width: 50%;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+}
+.copyright {
+    margin-top: 30px;
 }

@@ -1,9 +1,11 @@
 import React from 'react';
 import './App.css';
 import {Header} from "./header/Header";
-import {Main} from "./about/Main";
+import {Main} from "./main/Main";
 import {Skills} from "./skills/Skills";
 import {Work} from "./work/Work";
+import {Contact} from "./contact/Contact";
+import {Footer} from "./footer/Footer";
 
 function App() {
     return (
@@ -12,6 +14,8 @@ function App() {
             <Main/>
             <Skills />
             <Work />
+            <Contact />
+            <Footer />
         </div>
     );
 }

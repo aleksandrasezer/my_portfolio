@@ -1,6 +1,6 @@
 import React from "react";
 import s from './Skills.module.css'
-import sCont from '../common/Container.module.css'
+import sCont from '../common/container/Container.module.css'
 import {Skill} from "./skill/Skill";
 
 

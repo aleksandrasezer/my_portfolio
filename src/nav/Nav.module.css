@@ -1,6 +1,10 @@
 .navBlock {
-    border: 1px solid red;
     display: flex;
-    width: 300px;
+    width: 500px;
     justify-content: space-evenly;
+}
+.navBlock a {
+    text-decoration: none;
+    color: white;
+    font-size: larger;
 }

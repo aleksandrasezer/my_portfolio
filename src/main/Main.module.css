@@ -1,0 +1,27 @@
+.mainBlock {
+    height: 100vh;
+}
+.greetingBlock {
+    width: 450px;
+    background-color: rgba(238,130,238,0.7);
+    color: white;
+    font-size: large;
+}
+.photoBlock {
+    position: relative;
+    height: 400px;
+    width: 660px;
+}
+.rainbow img {
+    position: absolute;
+    z-index: -1;
+    height: 400px;
+}
+.myPhoto img {
+    position: absolute;
+    top: 20px;
+    left: 150px;
+    z-index: 1;
+    height: 400px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}

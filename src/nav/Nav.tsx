@@ -4,6 +4,7 @@ import s from './Nav.module.css'
 export const Nav = () => {
     return (
         <div className={s.navBlock}>
+            <a href="">home</a>
             <a href="">about</a>
             <a href="">experience</a>
             <a href="">work</a>

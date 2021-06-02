@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my_portfolio/static/css/main.ef9e13cb.chunk.css",
+    "main.js": "/my_portfolio/static/js/main.13a52b10.chunk.js",
+    "main.js.map": "/my_portfolio/static/js/main.13a52b10.chunk.js.map",
+    "runtime-main.js": "/my_portfolio/static/js/runtime-main.51f2a9bc.js",
+    "runtime-main.js.map": "/my_portfolio/static/js/runtime-main.51f2a9bc.js.map",
+    "static/js/2.1e65b116.chunk.js": "/my_portfolio/static/js/2.1e65b116.chunk.js",
+    "static/js/2.1e65b116.chunk.js.map": "/my_portfolio/static/js/2.1e65b116.chunk.js.map",
+    "static/js/3.adcdeb43.chunk.js": "/my_portfolio/static/js/3.adcdeb43.chunk.js",
+    "static/js/3.adcdeb43.chunk.js.map": "/my_portfolio/static/js/3.adcdeb43.chunk.js.map",
+    "index.html": "/my_portfolio/index.html",
+    "static/css/main.ef9e13cb.chunk.css.map": "/my_portfolio/static/css/main.ef9e13cb.chunk.css.map",
+    "static/js/2.1e65b116.chunk.js.LICENSE.txt": "/my_portfolio/static/js/2.1e65b116.chunk.js.LICENSE.txt",
+    "static/media/my_photo.cb300cab.jpg": "/my_portfolio/static/media/my_photo.cb300cab.jpg",
+    "static/media/rainbow.9fbf6b6a.png": "/my_portfolio/static/media/rainbow.9fbf6b6a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51f2a9bc.js",
+    "static/js/2.1e65b116.chunk.js",
+    "static/css/main.ef9e13cb.chunk.css",
+    "static/js/main.13a52b10.chunk.js"
+  ]
+}
